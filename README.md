@@ -10,3 +10,6 @@ A construção do portfólio é realizada nas próprias aulas, proporcionando um
 Este desafio tem como objetivo fazer com que os alunos criem um esboço/rascunho do site que será construído em WordPress.
 
 </p>
+
+![Desafio 35 - WordPress](https://github.com/PedroYokada/ModuloIV-WordPress-Kick/blob/main/Desafio3536/Desafio3536.png)
+
