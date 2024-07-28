@@ -37,14 +37,14 @@ e tambem mostrar os resultados da construção.
 ![Desafio 37 - WordPress](https://github.com/PedroYokada/ModuloIV-WordPress-Kick/blob/main/Desafio3738/4.png)
 
 ### Paleta de cores
-![Desafio 37 - WordPress](https://github.com/PedroYokada/ModuloIV-WordPress-Kick/blob/main/Desafio3738/4.png)
+![Desafio 37 - WordPress](https://github.com/PedroYokada/ModuloIV-WordPress-Kick/blob/main/Desafio3738/Paleta.png)
 <br>
 -1C437C
 <br>
 -4C4C4C
 
 ### Fontes
-![Desafio 37 - WordPress](https://github.com/PedroYokada/ModuloIV-WordPress-Kick/blob/main/Desafio3738/4.png)
+![Desafio 37 - WordPress](https://github.com/PedroYokada/ModuloIV-WordPress-Kick/blob/main/Desafio3738/Fontes%20(1).png)
 <br>
 -Times New Roman
 <br>
