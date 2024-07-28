@@ -5,7 +5,7 @@
 O objetivo deste repositório é hospedar projetos do Módulo IV do bootcamp que estou fazendo na Kick. Este módulo tem o objetivo de construir um site em WordPress com a temática de portfólio pessoal. 
 A construção do portfólio é realizada nas próprias aulas, proporcionando uma dinâmica diferenciada aos alunos.
 
-## Desafio 35-36
+# Desafio 35-36
 
 Este desafio tem como objetivo fazer com que os alunos criem um esboço/rascunho do site que será construído em WordPress.
 
@@ -13,7 +13,7 @@ Este desafio tem como objetivo fazer com que os alunos criem um esboço/rascunho
 
 ![Desafio 35 - WordPress](https://github.com/PedroYokada/ModuloIV-WordPress-Kick/blob/main/Desafio3536/Desafio3536.png)
 
-## Desafio 37-38
+# Desafio 37-38
 
 Enunciado: Defina a paleta de cores e a fonte do seu site, após fazer isso altere as cores e a fonte nas configurações do site.​
 Envie um print do seu portfólio até o momento.
@@ -49,6 +49,8 @@ e tambem mostrar os resultados da construção.
 -Times New Roman
 <br>
 -Archivo
+
+# Desafio 39-40
 </p>
 
 
