@@ -51,6 +51,18 @@ e tambem mostrar os resultados da construção.
 -Archivo
 
 # Desafio 39-40
+
+Neste desafio, realizamos uma atividade em grupo onde construímos um site em WordPress. Cada aluno teve uma função específica e todos nos auxiliamos mutuamente. Foi uma atividade muito produtiva, pois aprendi o quanto é prazeroso trabalhar em equipe e também pude aprofundar meus conhecimentos em WordPress com a ajuda dos meus colegas Nadson, Marco e Gabriel.
+
+<li>aluno A compartilha a tela e cria a página
+<li>aluno B pesquisa 1 seção
+<li>aluno C pesquisa 1 seção
+<li>aluno B auxilia aluno A para criar nova seção
+<li>aluno C auxilia aluno A para criar nova seção
+<li>aluno A irá enviar o arquivo exportado e o print da página criada. Os demais devem enviar os grupos que trabalharam.
+
+![Desafio 39 - WordPress](https://github.com/PedroYokada/ModuloIV-WordPress-Kick/blob/main/Desafio3940/Print%20atividade%20em%20grupo.png)
+
 </p>
 
 
