@@ -59,6 +59,8 @@ Neste desafio, realizamos uma atividade em grupo onde construímos um site em Wo
 
 # Portifólio WordPress Final
 
+<li>https://pedro-yokada.soukick.com.br/?classId=30aa4a21-2fbb-4025-96d9-31a4abf28f7f&assignmentId=27347999-cb46-4726-a175-a05fbf4fb61d&submissionId=e831a39c-70c0-4729-bb1a-db03d2dca27d
+
 </p>
 
 
